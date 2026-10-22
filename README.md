@@ -10,6 +10,4 @@ An ultra-futuristic, cyber-themed portfolio web app engineered for Edwin Simon â
 - **System Architecture Deep Dives**: Modal dialogues for Athlete Forge, PGAS Accommodation Hub, and Azure Cyber Shield.
 - **Zero-Trust Telemetry & Verification**: Live node latency ping, certified credentials timeline, and copy-to-clipboard contact vectors.
 
-## Deploying to Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` inside this directory, or drag and drop the folder into the [Vercel Dashboard](https://vercel.com/new).
+
